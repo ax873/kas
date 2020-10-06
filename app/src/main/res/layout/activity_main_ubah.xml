@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+
+    android:layout_height="match_parent"
+    tools:context=".tampilan.MainUbah">
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/Idid1ubah"
+        android:textAlignment="center"
+        android:text="MY KAS "
+        android:textSize="40dp"
+        android:padding="30dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/txtidkas1"
+        android:hint="id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:hint="nama"
+        android:id="@+id/txtnama1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:hint="ranting"
+        android:id="@+id/txtranting1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/txtjumlah1"
+        android:hint="jumlah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/txtdesk1"
+        android:hint="deskripsi"
+        android:textAlignment="center"
+        android:layout_width="270dp"
+        android:layout_height="120dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/btsimpan1"
+        android:text="simpan"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/bthapus"
+        android:text="hapus"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/Iid1ubah"
+        android:textAlignment="center"
+        android:text="coba"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/uwu"
+        android:textAlignment="center"
+        android:text="coba"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

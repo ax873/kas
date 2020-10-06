@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1051021066569",
+    "firebase_url": "https://bismilahprojekkas.firebaseio.com",
+    "project_id": "bismilahprojekkas",
+    "storage_bucket": "bismilahprojekkas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051021066569:android:1111e4eeb0fb64865e5a98",
+        "android_client_info": {
+          "package_name": "maruf.com.bismilahprojekkas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051021066569-u71uqogu33gvmpoulirq2bhv8v46kqqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maruf.com.bismilahprojekkas",
+            "certificate_hash": "aa51aad3d36100bee006d9ec2a3861485b4e3fc3"
+          }
+        },
+        {
+          "client_id": "1051021066569-bjj17p06qtpbch3m0nooptuc9t5uc1v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdeTxa-G2I35hDYjPsueED766rdJiOSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051021066569-bjj17p06qtpbch3m0nooptuc9t5uc1v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051021066569:android:5d07fd5b3dea264e5e5a98",
+        "android_client_info": {
+          "package_name": "maruf.com.kass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051021066569-5mtqt6agcql24jtr6689k3eueqepopqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maruf.com.kass",
+            "certificate_hash": "aa51aad3d36100bee006d9ec2a3861485b4e3fc3"
+          }
+        },
+        {
+          "client_id": "1051021066569-bjj17p06qtpbch3m0nooptuc9t5uc1v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdeTxa-G2I35hDYjPsueED766rdJiOSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051021066569-bjj17p06qtpbch3m0nooptuc9t5uc1v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051021066569:android:ad4a963fe2d48f9a5e5a98",
+        "android_client_info": {
+          "package_name": "maruf.com.yarabsemogadadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051021066569-sh6kbuoutqe37q3h3m6dh17aqrdm2fho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maruf.com.yarabsemogadadi",
+            "certificate_hash": "aa51aad3d36100bee006d9ec2a3861485b4e3fc3"
+          }
+        },
+        {
+          "client_id": "1051021066569-bjj17p06qtpbch3m0nooptuc9t5uc1v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdeTxa-G2I35hDYjPsueED766rdJiOSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051021066569-bjj17p06qtpbch3m0nooptuc9t5uc1v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
